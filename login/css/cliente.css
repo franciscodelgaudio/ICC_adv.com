@@ -1,0 +1,9 @@
+body{
+    background: rgb(25, 213, 219);
+}
+
+.pagina{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 2px 3px 1px #888888;
+}
